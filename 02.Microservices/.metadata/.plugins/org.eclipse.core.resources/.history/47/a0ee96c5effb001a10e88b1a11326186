@@ -1,5 +1,0 @@
-package com.vijay.microservices.currencyconversionservice;
-
-public class CurrencyConversionController {
-
-}
