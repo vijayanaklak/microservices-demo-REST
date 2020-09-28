@@ -1,0 +1,7 @@
+codemix.settings.migration=true
+codemix.show.control.panel.tip=upgrade
+codemix.show.validation.tip=upgrade
+deletedObsoleteMarkers=true
+displaySyntaxColorInfo=false
+eclipse.preferences.version=1
+request.editor.usage.survey=false

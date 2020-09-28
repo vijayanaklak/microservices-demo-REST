@@ -1,0 +1,3 @@
+spring.application.name=limits-service
+
+spring.cloud.config.uir=http://localhost:8888

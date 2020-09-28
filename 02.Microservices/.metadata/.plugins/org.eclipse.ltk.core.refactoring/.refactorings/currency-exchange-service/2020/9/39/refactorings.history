@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;exchangeValue&apos; from expression &apos;new ExchangeValue(1000L,from,to,BigDecimal.valueOf(65))&apos;&#x0A;- Original project: &apos;currency-exchange-service&apos;&#x0A;- Variable name: &apos;exchangeValue&apos;&#x0A;- Destination method: &apos;com.vijay.microservices.currencyexchangeservice.CurrencyExchangeController.retrieveExchangeValue()&apos;&#x0A;- Variable expression: &apos;new ExchangeValue(1000L,from,to,BigDecimal.valueOf(65))&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;exchangeValue&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.vijay.microservices.currencyexchangeservice{CurrencyExchangeController.java" name="exchangeValue" replace="true" selection="493 58" stamp="1600671798865" version="1.0"/>
+</session>
